@@ -59,6 +59,10 @@ hr {
     text-align: left;
     line-height: 2;
 }
+.project{
+color:#04364A;
+text-decoration: none;
+}
 .comp{
     float: left;
     margin-right: 30px;
