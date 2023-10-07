@@ -63,6 +63,9 @@ hr {
 color:#04364A;
 text-decoration: none;
 }
+.project:hover{
+color:#3085C3;
+}
 .comp{
     float: left;
     margin-right: 30px;
